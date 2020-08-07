@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project demo is hosted [here](https://orion-pax.github.io/simple-react-todo/).
+
 ## Available Scripts
 
 In the project directory, you can run:
